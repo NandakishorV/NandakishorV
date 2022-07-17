@@ -1,5 +1,5 @@
-### <div align="center">Hello 👋
-| I am Nandakishor | Undergrad CS Student | Computer science Enthusiast |</div>  
+### <div align="center">Hello 👋,I am Nandakishor 
+| Undergrad CS Student | Computer science Enthusiast |</div>  
   
 
 - 🔭 I’m currently working on [EventPlotter](https://github.com/NandakishorV/EventPlotter)  
