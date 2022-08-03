@@ -83,9 +83,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NandakishorV&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandakishorV&hide_border=true&layout=compact" align="center" /></div>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NandakishorV&show_icons=true&locale=en&layout=compact" alt="NandakishorV" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NandakishorV&show_icons=true&locale=en" alt="NandakishorV" /></p>
 
 <br/>  
 
