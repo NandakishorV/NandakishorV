@@ -2,7 +2,7 @@
 | Undergrad CS Student | Computer science Enthusiast |</div>  
   
 
-- 🔭 I’m currently working on [EventPlotter](https://github.com/NandakishorV/EventPlotter)  
+- 🔭 I’m currently working on [HostelManagement](https://github.com/NandakishorV/Hostel-Management)  
   
 
 - 🌱 I’m currently learning Blockchain  
