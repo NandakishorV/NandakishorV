@@ -2,13 +2,13 @@
 | Undergrad CS Student | Computer science Enthusiast |</div>  
   
 
-- 🔭 I’m currently working on [HostelManagement](https://github.com/NandakishorV/Hostel-Management)  
+- 🔭 I’m currently working on Security threats in Microservices
   
 
-- 🌱 I’m currently learning Blockchain  
+- 🌱 I’m currently learning APIs and Cybersecurity
   
 
-- ⚡ Interested in- Data Science, Full Stack Development, Blockchain  
+- ⚡ Interested in- Data Science, Full Stack Development, Cybersecurity 
   
 
 <br/>  
